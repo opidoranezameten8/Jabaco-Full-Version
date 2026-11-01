@@ -241,4 +241,4 @@ This repository serves as the official landing page for Jabaco. The software is 
 **Get the most recent version of Jabaco today!**
 
 ---
-**Last updated:** 2026-11-01 16:44:17 UTC
+**Last updated:** 2026-11-01 20:56:28 UTC
